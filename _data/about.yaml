@@ -1,0 +1,39 @@
+# ##############################################################################
+# ABOUT
+# ------------------------------------------------------------------------------
+# This data file contains all information that will be displayed on the home
+# page of your website. The fields `title` and `authors` are necessary. These
+# keys cannot be changed or they will not be displayed on the website. 
+#
+# The remainder of the fileds can be changed to fit your needs. The field name
+# (e.g. abstract, summary, etc) Will appear with as H2 headings on the website.
+# The content below will appear 
+
+title: >
+  Statistical Analysis of Microtuble Catastrophe Experimental Data
+authors: >
+  Maryann Morales, Eva Kercmar
+Abstract: >
+  As part of of the BeBi103a course at Caltech, we have designed a website 
+  that displays our statistical analysis of a portion of the data from the paper by 
+  Gardner et al., 2011  (information below).
+Summary:  >
+  Microtubules are dynamic filamens that contain ends which alternate between slow growth
+  and rapid shortening as traverse intracellular space and move organelles. Microtubules turnover
+  through a process of dynamic instability. In this process, there is assembly at the plus end of
+  the microtubule as well as alternating disassembly at the minus end. This sudden transition is 
+  referred to as catastrophe. The mechanism of catastrophe is poorly understood. In Gardner et al., 2011, 
+  the authors seek to undedrstand this catastrophe mechanism by depolymerzing kinesins which are 
+  catastrophe factors. 
+  
+  As our project, we analyzed the data of the catastrophe dependence on microtubule age over a range of 
+  tubulin concentrations. Tubulin is the protein sub unit that is assembled and dissassembled.In the 
+  experiment the tubulin is labeled and allows for tracking. 
+  
+Acknowledgments: > 
+  Paper: M.K. Gardner, M. Zanic, C. Gell, V. Bormuth, J. Howard
+  Cell, 147 (2011), pp. 1092-1103
+  
+  We would like to acknowledge Dr. Justin Bois for his passion in teaching 
+  this course and giving us the opportunity to work on this. We would also like
+  to acknowledge Griffin Chure for providing a template to create this website.

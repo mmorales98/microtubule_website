@@ -1,0 +1,45 @@
+- fig:
+  title: "Fig. 1: Exploratory Data Analysis for Time to Catastrophe for Microtubles containing Tubulin "
+  filename: script02.py
+  desc:  Used to generate the figure1
+  pic: fig1.png
+  req:
+    - ds: 
+      storage: remote
+      title: Dataset
+      link: "https://s3.amazonaws.com/bebi103.caltech.edu/data/gardner_mt_catastrophe_only_tubulin.csv."
+
+- fig:
+  title: "Fig. 2: 12µM Tubulin Catastrophe Time fit to Gamma Model "
+  filename: script05.py
+  desc: 
+      Used to generate Figure 2
+  pic: fig2.png
+  req:
+    - ds:
+      title: Dataset
+      storage: remote
+      link: "https://s3.amazonaws.com/bebi103.caltech.edu/data/gardner_mt_catastrophe_only_tubulin.csv."
+
+- fig: 
+  title: "Fig. 3: Fig. 2: 12µM Tubulin Catastrophe Time fit to Model 2 (two successive Poisson processes (with different rates)"
+  filename: script08.py
+  desc:
+        Used to generate Figure 3, 
+  pic: fig3.png
+  req:
+    - ds:
+      title: Dataset
+      storage: remote
+      link: "https://s3.amazonaws.com/bebi103.caltech.edu/data/gardner_mt_catastrophe_only_tubulin.csv."
+- fig: 
+  title: "Fig. 4: All Tubulin Labeled Microtubules fit to Gamma Model"
+  filename: script10.py
+  desc:
+        Used to generate Figure 4, 
+  pic: fig4.png
+  req:
+    - ds:
+      title: Dataset
+      storage: remote
+      link: "https://s3.amazonaws.com/bebi103.caltech.edu/data/gardner_mt_catastrophe_only_tubulin.csv."

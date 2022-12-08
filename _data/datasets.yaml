@@ -1,0 +1,6 @@
+- dataset:
+  storage: "remote"
+  name: "gardner_mt_catastrophe_only_tubulin"
+  filetype: ".csv"
+  link: "https://s3.amazonaws.com/bebi103.caltech.edu/data/gardner_mt_catastrophe_only_tubulin.csv."
+  filesize: 11 KB

@@ -1,0 +1,44 @@
+- script:
+  name: script01.py
+  desc: >
+    import and organize code
+- script:
+  name: script02.py
+  desc: >
+    plot ecdf for all data
+- script:
+  name: script03.py
+  desc: >
+    model 1: Gamma: the functions for the log likelihood of the gamma function
+- script:
+  name: script04.py
+  desc: >
+    mle calculation for the 12uM concencentration sample
+- script:
+  name: script05.py
+  desc: >
+    ecdf of the theoreitcal and experimental results of gamma mle
+- script:
+  name: script06.py
+  desc: >
+    model 2: The arrival of two successive Poisson processes (with different rates) immediately 
+    trigger microtubule catastrophe.The functions for the log likelihood of the model 2 function.
+- script:
+  name: script07.py
+  desc: >
+    calculate mle of beta1 and beta 2 using model 2
+- script:
+  name: script08.py
+  desc: >
+    ecdf of the theoreitcal and experimental results of model 2 MLE
+- script:
+  name: script09.py
+  desc: >
+    create table with all MLE values  fit with the gamma model
+- script:
+  name: script10.py
+  desc: >
+    ecdf of the theoreitcal and experimental results of gamma model for all data
+
+
+
